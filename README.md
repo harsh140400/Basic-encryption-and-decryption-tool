@@ -17,8 +17,8 @@ A simple web application that allows users to encrypt and decrypt text using the
    ```bash
    git clone https://github.com/harsh140400/Basic-encryption-and-decryption-tool.git
 
-2.**Bash:**
+ 2.**Bash:**
 
-   ```bash
-   cd Basic-encryption-and-decryption-tool
-
+    cd Basic-encryption-and-decryption-tool
+    
+ 
