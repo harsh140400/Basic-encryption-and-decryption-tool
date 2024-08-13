@@ -20,5 +20,9 @@ A simple web application that allows users to encrypt and decrypt text using the
  2.**Bash:**
 
     cd Basic-encryption-and-decryption-tool
+   3.**Open index.html in your Web Browser:**
+
+    open index.html
+   
     
  
